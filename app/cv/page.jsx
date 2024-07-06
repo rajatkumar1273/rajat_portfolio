@@ -11,7 +11,7 @@ const CV = () => {
       <div className="mb-8">
         {/* You can embed a PDF viewer or an image of your CV here */}
         <iframe
-          src="/resume.pdf"
+          src="/Rajat_Kumar_Resume.pdf"
           width="100%"
           height="500px"
           className="border"
