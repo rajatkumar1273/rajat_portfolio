@@ -17,7 +17,7 @@ const CV = () => {
           className="border"
         ></iframe>
       </div>
-      <a href="/resume.pdf" download>
+      <a href="/Rajat_Kumar_Resume.pdf" download>
         <Button className="gap-x-2">
           Download CV <Download size={18} />
         </Button>
