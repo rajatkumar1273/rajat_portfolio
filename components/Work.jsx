@@ -21,7 +21,7 @@ const projectData = [
     category: "next js",
     name: "Smart Price",
     description:
-      "E-commerce Price Tracker, enabling users to track Amazon product prices and receive email notifications for price drops and restocks with real-time data scraping, providing timely updates and informing users about product availability and price changes.",
+      "E-commerce price tracker, enabling users to track Amazon product prices and receive email notifications for price drops and restocks with real-time data scraping, providing timely updates and informing users about product availability and price changes.",
     link: "https://smart-price-cart.vercel.app/",
     github: "https://github.com/rajatkumar1273/smart-price",
   },
@@ -43,15 +43,15 @@ const projectData = [
     link: "https://noteverse-notes.netlify.app/",
     github: "https://github.com/rajatkumar1273/note_verse",
   },
-  // {
-  //   image: "/assets/work/4.png",
-  //   category: "html, css, and js",
-  //   name: "Noteverse",
-  //   description:
-  //     "A stylish and user-friendly notes app that allows users to create, manage, and efficiently delete notes that is designed to facilitate note-taking and structured organization of personal notes in an intuitive way.",
-  //   link: "https://noteverse-notes.netlify.app/",
-  //   github: "https://noteverse-notes.netlify.app/",
-  // },
+  {
+    image: "/assets/work/8.png",
+    category: "next js",
+    name: "Care Pulse",
+    description:
+      "Healthcare management system, featuring secure patient registration, appointment scheduling, and an admin dashboard for managing and monitoring appointments with real-time SMS notifications.",
+    link: "https://care-pulse-health-care.vercel.app/",
+    github: "https://github.com/rajatkumar1273/care_pulse",
+  },
 ];
 
 const Work = () => {
