@@ -10,9 +10,18 @@ const projectData = [
     category: "next js",
     name: "Smart Price",
     description:
-      "E-commerce Price Tracker, enabling users to track Amazon product prices and receive email notifications for price drops and restocks with real-time data scraping, providing timely updates and informing users about product availability and price changes.",
+      "E-commerce price tracker, enabling users to track Amazon product prices and receive email notifications for price drops and restocks with real-time data scraping, providing timely updates and informing users about product availability and price changes.",
     link: "https://smart-price-cart.vercel.app/",
     github: "https://github.com/rajatkumar1273/smart-price",
+  },
+  {
+    image: "/assets/work/8.png",
+    category: "next js",
+    name: "Care Pulse",
+    description:
+      "Healthcare management system, featuring secure patient registration, appointment scheduling, and an admin dashboard for managing and monitoring appointments with real-time SMS notifications.",
+    link: "https://care-pulse-health-care.vercel.app/",
+    github: "https://github.com/rajatkumar1273/care_pulse",
   },
   {
     image: "/assets/work/3.png",
