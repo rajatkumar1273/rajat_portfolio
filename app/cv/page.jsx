@@ -11,13 +11,13 @@ const CV = () => {
       <div className="mb-8">
         {/* You can embed a PDF viewer or an image of your CV here */}
         <iframe
-          src="/Rajat_Kumar_Resume.pdf"
+          src="/Rajat_Kumar.pdf"
           width="100%"
           height="500px"
           className="border"
         ></iframe>
       </div>
-      <a href="/Rajat_Kumar_Resume.pdf" download>
+      <a href="/Rajat_Kumar.pdf" download>
         <Button className="gap-x-2">
           Download CV <Download size={18} />
         </Button>
